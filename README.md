@@ -42,9 +42,9 @@ _This text_ is italic
 
 <!-- Links -->
 
-[Traversy Media](http://google.com)
+[google](http://google.com)
 
-[Traversy Media](http://google.com "Google")
+[google](http://google.com "Google")
 
 <!-- UL -->
 
